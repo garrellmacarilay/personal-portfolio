@@ -16,7 +16,7 @@ function SideMenu() {
 
         <a href="index.html" className="logo d-flex align-items-center justify-content-center">          
          {/* <img src="assets/img/logo.png" alt="Logo">  */}
-          <h1 className="sitename">Alex Smith</h1>
+          <h1 className="sitename">Garrell Manyaman</h1>
         </a>
 
         <div className="social-links text-center">
@@ -36,7 +36,7 @@ function SideMenu() {
             <i className="bi bi-linkedin" />
           </a>
         </div>
-        
+
         <nav id="navmenu" className="navmenu">
           <ul>
             <li>

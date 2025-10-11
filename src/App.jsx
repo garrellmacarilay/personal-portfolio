@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // Import AOS styles
 import SideMenu from './components/SideMenu';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -7,6 +9,10 @@ import Skills from './components/Skills';
 
 
 function App() {
+  useEffect(() => {
+    AOS.init({ duration: 1000 }); // Initialize AOS with a duration of 1000ms
+  }, []);
+
   return (
     <>
       <SideMenu />

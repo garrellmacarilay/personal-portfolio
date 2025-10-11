@@ -3,12 +3,7 @@ import React from 'react';
 function Hero() {
   return (
     <section id="hero" className="hero section dark-background">
-      <img
-        src="assets/img/hero-bg.jpg"
-        alt=""
-        data-aos="fade-in"
-        className=""
-      />
+      <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in" />
       <div className="container" data-aos="fade-up" data-aos-delay={100}>
         <h2>Alex Smith</h2>
         <p>
@@ -19,10 +14,6 @@ function Hero() {
           >
             Designer
           </span>
-          <span
-            className="typed-cursor typed-cursor--blink"
-            aria-hidden="true"
-          />
         </p>
       </div>
     </section>
