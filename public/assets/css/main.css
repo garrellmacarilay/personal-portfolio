@@ -185,6 +185,11 @@ h6 {
   color: var(--heading-color);
 }
 
+.header .logo h1:hover {
+  color: var(--accent-color); /* Change text color on hover */
+  text-decoration: underline; /* Add underline for emphasis */
+}
+
 .header .social-links {
   margin: 0 0 20px 0;
 }
