@@ -1,6 +1,6 @@
 body,
 .dark-theme {
-  background-color: #121212; /* Dark background */
+  background-color: #1c1c1c; /* Dark background */
   color: #ffffff; /* Light text color */
 }
 
@@ -10,7 +10,7 @@ body,
 
 .dark-theme .header,
 .dark-theme .footer {
-  background-color: #1c1c1c; /* Darker background for header and footer */
+  background-color: #121212; /* Darker background for header and footer */
 }
 
 .dark-theme .section-title h2,
@@ -38,10 +38,28 @@ body,
 }
 
 .floating-modal {
-  background-color: #1c1c1c; /* Dark background for modal */
+  background-color: #121212; /* Dark background for modal */
   color: #ffffff; /* Light text color */
-  border-radius: 25px; /* More rounded corners */
-  padding: 30px; /* Increase padding inside the modal */
-  margin: 30px 0; /* Increase spacing between modals */
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Enhance shadow for floating effect */
+  font-size: 16px; /* Readable font size */
+  border-radius: 25px; /* Rounded corners */
+  padding: 30px; /* Adequate padding */
+  margin: 30px; /* Spacing between modals */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
+}
+
+.header {
+  background-color: #121212; /* Updated background color for the side menu */
+  position: fixed;
+  top: 0;
+  left: 35px;
+  bottom: 0;
+  padding: 0px 15px;
+  width: calc(300px - 40px); /* Adjust width to account for margin */
+  transition: all ease-in-out 0.3s;
+  overflow-y: auto;
+  z-index: 997;
+  border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  border-radius: 25px; /* Rounded edges */
+  margin: 20px; /* Add margin space */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
 }

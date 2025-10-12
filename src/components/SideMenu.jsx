@@ -41,13 +41,17 @@ function SideMenu() {
           <ul>
             <li>
               <a href="#hero" className="active">
-                <i className="bi bi-house navicon" />
-                Home
+                <i className="bi bi-house navicon" /> Home
               </a>
             </li>
             <li>
               <a href="#about">
                 <i className="bi bi-person navicon" /> About
+              </a>
+            </li>
+            <li>
+              <a href="#skills">
+                <i className="bi bi-code-slash navicon" /> Skills
               </a>
             </li>
             <li>
@@ -64,49 +68,6 @@ function SideMenu() {
               <a href="#services">
                 <i className="bi bi-hdd-stack navicon" /> Services
               </a>
-            </li>
-            <li className="dropdown">
-              <a href="#">
-                <i className="bi bi-menu-button navicon" /> <span>Dropdown</span>{" "}
-                <i className="bi bi-chevron-down toggle-dropdown" />
-              </a>
-              <ul>
-                <li>
-                  <a href="#">Dropdown 1</a>
-                </li>
-                <li className="dropdown">
-                  <a href="#">
-                    <span>Deep Dropdown</span>{" "}
-                    <i className="bi bi-chevron-down toggle-dropdown" />
-                  </a>
-                  <ul>
-                    <li>
-                      <a href="#">Deep Dropdown 1</a>
-                    </li>
-                    <li>
-                      <a href="#">Deep Dropdown 2</a>
-                    </li>
-                    <li>
-                      <a href="#">Deep Dropdown 3</a>
-                    </li>
-                    <li>
-                      <a href="#">Deep Dropdown 4</a>
-                    </li>
-                    <li>
-                      <a href="#">Deep Dropdown 5</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">Dropdown 2</a>
-                </li>
-                <li>
-                  <a href="#">Dropdown 3</a>
-                </li>
-                <li>
-                  <a href="#">Dropdown 4</a>
-                </li>
-              </ul>
             </li>
             <li>
               <a href="#contact">
