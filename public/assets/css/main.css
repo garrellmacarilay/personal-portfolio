@@ -144,17 +144,20 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: var(--surface-color); /* Use surface color for floating modal */
   position: fixed;
   top: 0;
   left: 0;
   bottom: 0;
   padding: 0 15px;
-  width: 300px;
+  width: calc(300px - 40px); /* Adjust width to account for margin */
   transition: all ease-in-out 0.3s;
   overflow-y: auto;
   z-index: 997;
   border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  border-radius: 25px; /* Rgit ounded edges */
+  margin: 20px; /* Add margin space */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
 }
 
 .header .profile-img img {
@@ -162,6 +165,7 @@ h6 {
   display: block;
   width: 120px;
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 85%);
+  border-radius: 50%; /* Ensure profile image remains circular */
 }
 
 .header .logo {
@@ -209,13 +213,15 @@ h6 {
 
   .header~main,
   .header~#footer {
-    margin-left: 300px;
+    margin-left: calc(300px + 40px); /* Adjust main and footer margin for floating header */
   }
 }
 
 @media (max-width: 1199px) {
   .header {
     left: -100%;
+    margin: 0; /* Remove margin for mobile view */
+    border-radius: 0; /* Remove rounded edges for mobile view */
   }
 }
 
