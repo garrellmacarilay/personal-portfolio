@@ -1,0 +1,47 @@
+body,
+.dark-theme {
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Light text color */
+}
+
+.dark-theme a {
+  color: #1e90ff; /* Links in dark theme */
+}
+
+.dark-theme .header,
+.dark-theme .footer {
+  background-color: #1c1c1c; /* Darker background for header and footer */
+}
+
+.dark-theme .section-title h2,
+.dark-theme .section-title p {
+  color: #ffffff; /* Ensure section titles are readable */
+}
+
+.dark-theme .navmenu ul li a {
+  color: #ffffff; /* Navigation links */
+}
+
+.dark-theme .navmenu ul li a.active {
+  color: #1e90ff; /* Active navigation link */
+}
+
+.dark-theme .btn,
+.dark-theme button {
+  background-color: #1e90ff; /* Button background */
+  color: #ffffff; /* Button text */
+}
+
+.dark-theme .btn:hover,
+.dark-theme button:hover {
+  background-color: #0b6cbf; /* Button hover effect */
+}
+
+.floating-modal {
+  background-color: #1c1c1c; /* Dark background for modal */
+  color: #ffffff; /* Light text color */
+  border-radius: 25px; /* More rounded corners */
+  padding: 30px; /* Increase padding inside the modal */
+  margin: 30px 0; /* Increase spacing between modals */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Enhance shadow for floating effect */
+}
