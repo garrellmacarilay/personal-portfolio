@@ -49,6 +49,16 @@ function SideMenu() {
                 <i className="bi bi-person navicon" /> About
               </a>
             </li>
+             <li>
+              <a href="#portfolio">
+                <i className="bi bi-images navicon" /> Portfolio
+              </a>
+            </li>
+            <li>
+              <a href="#services">
+                <i className="bi bi-hdd-stack navicon" /> Services
+              </a>
+            </li>
             <li>
               <a href="#skills">
                 <i className="bi bi-code-slash navicon" /> Skills
@@ -57,16 +67,6 @@ function SideMenu() {
             <li>
               <a href="#resume">
                 <i className="bi bi-file-earmark-text navicon" /> Resume
-              </a>
-            </li>
-            <li>
-              <a href="#portfolio">
-                <i className="bi bi-images navicon" /> Portfolio
-              </a>
-            </li>
-            <li>
-              <a href="#services">
-                <i className="bi bi-hdd-stack navicon" /> Services
               </a>
             </li>
             <li>

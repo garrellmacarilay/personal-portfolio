@@ -28,6 +28,9 @@ function App() {
           <About />
         </div>
         <div className="floating-modal">
+          <Portfoilio />
+        </div>
+        <div className="floating-modal">
           <Skills />
         </div>
         <div className="floating-modal">
@@ -35,9 +38,6 @@ function App() {
         </div>
         <div className="floating-modal">
           <Resume />
-        </div>
-        <div className="floating-modal">
-          <Portfoilio />
         </div>
         <div className="floating-modal">
           < Contact />
