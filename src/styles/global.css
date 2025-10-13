@@ -47,6 +47,11 @@ body,
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
 }
 
+.floating-modal.portfolio,
+.floating-modal.skills {
+  background-color: #121212; /* Dark background for Portfolio and Skills modals */
+}
+
 .header {
   background-color: #121212; /* Updated background color for the side menu *
   top: 0;
@@ -61,4 +66,9 @@ body,
   border-radius: 25px; /* Rounded edges */
   margin: 20px; /* Add margin space */
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
+}
+
+.skills .progress .skill .val {
+  color: var(--contrast-color); /* Ensure percentage text is visible */
+  font-weight: bold; /* Make it stand out */
 }

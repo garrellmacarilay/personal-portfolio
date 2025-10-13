@@ -1,125 +1,113 @@
-import React from 'react'
+import React from 'react';
 
 function Resume() {
+  const downloadResume = () => {
+    const link = document.createElement('a');
+    link.href = process.env.PUBLIC_URL + '/assets/Macarilay_Resume.pdf'; // Ensure the file is in the public/assets folder
+    link.download = 'Macarilay_Resume.pdf'; // The name of the downloaded file
+    link.click();
+  };
+
   return (
     <>
       <section id="resume" className="resume section">
-            <div className="container section-title" data-aos="fade-up">
-              <h2>Resume</h2>
-              <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                fugiat sit in iste officiis commodi quidem hic quas.
-              </p>
-            </div>
-
-            <div className="container">
-              <div className="row">
-                <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
-                  <h3 className="resume-title">Sumary</h3>
-                  <div className="resume-item pb-0">
-                    <h4>Brandon Johnson</h4>
-                    <p>
-                      <em>
-                        Innovative and deadline-driven Graphic Designer with 3+ years
-                        of experience designing and developing user-centered
-                        digital/print marketing material from initial concept to
-                        final, polished deliverable.
-                      </em>
-                    </p>
-                    <ul>
-                      <li>Portland par 127,Orlando, FL</li>
-                      <li>(123) 456-7891</li>
-                      <li>alice.barkley@example.com</li>
-                    </ul>
-                  </div>
-                  <h3 className="resume-title">Education</h3>
-                  <div className="resume-item">
-                    <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                    <h5>2015 - 2016</h5>
-                    <p>
-                      <em>Rochester Institute of Technology, Rochester, NY</em>
-                    </p>
-                    <p>
-                      Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam
-                      iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti
-                      nerada porti sand markend
-                    </p>
-                  </div>
-                  <div className="resume-item">
-                    <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                    <h5>2010 - 2014</h5>
-                    <p>
-                      <em>Rochester Institute of Technology, Rochester, NY</em>
-                    </p>
-                    <p>
-                      Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
-                      reiciendis et quis Eius vel ratione eius unde vitae rerum
-                      voluptates asperiores voluptatem Earum molestiae consequatur
-                      neque etlon sader mart dila
-                    </p>
-                  </div>
-                </div>
-                <div className="col-lg-6" data-aos="fade-up" data-aos-delay={200}>
-                  <h3 className="resume-title">Professional Experience</h3>
-                  <div className="resume-item">
-                    <h4>Senior graphic design specialist</h4>
-                    <h5>2019 - Present</h5>
-                    <p>
-                      <em>Experion, New York, NY </em>
-                    </p>
-                    <ul>
-                      <li>
-                        Lead in the design, development, and implementation of the
-                        graphic, layout, and production communication materials
-                      </li>
-                      <li>
-                        Delegate tasks to the 7 members of the design team and provide
-                        counsel on all aspects of the project.
-                      </li>
-                      <li>
-                        Supervise the assessment of all graphic materials in order to
-                        ensure quality and accuracy of the design
-                      </li>
-                      <li>
-                        Oversee the efficient use of production project budgets
-                        ranging from $2,000 - $25,000
-                      </li>
-                    </ul>
-                  </div>
-
-                  <div className="resume-item">
-                    <h4>Graphic design specialist</h4>
-                    <h5>2017 - 2018</h5>
-                    <p>
-                      <em>Stepping Stone Advertising, New York, NY</em>
-                    </p>
-                    <ul>
-                      <li>
-                        Developed numerous marketing programs (logos,
-                        brochures,infographics, presentations, and advertisements).
-                      </li>
-                      <li>
-                        Managed up to 5 projects or tasks at a given time while under
-                        pressure
-                      </li>
-                      <li>
-                        Recommended and consulted with clients on the most appropriate
-                        graphic design
-                      </li>
-                      <li>
-                        Created 4+ design presentations and proposals a month for
-                        clients and account managers
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+        <div className="container section-title" data-aos="fade-up">
+          <h2>Resume</h2>
+          <p>
+            A motivated and detail-oriented Information Systems student seeking an entry-level software engineering position to leverage technical skills and academic knowledge. Eager to contribute to dynamic development teams.
+          </p>
+          <br />
+          <button className="btn" onClick={downloadResume}>
+            Download Resume
+          </button>
+        </div>
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
+              <h3 className="resume-title">Summary</h3>
+              <div className="resume-item pb-0">
+                <h4>Garrell B. Macarilay</h4>
+                <p>
+                  <em>
+                    A motivated and detail-oriented Information Systems student with a strong foundation in programming, database management, and software development. Proven leadership and collaboration skills with a track record of academic excellence.
+                  </em>
+                </p>
+                <ul>
+                  <li>Lot 2 Blk 10 6th Ave Larlin Village, Sampaloc, Apalit</li>
+                  <li>09195947844</li>
+                  <li>gmacarilay1@gmail.com</li>
+                </ul>
+              </div>
+              <h3 className="resume-title">Education</h3>
+              <div className="resume-item">
+                <h4>College</h4>
+                <h5>2023 - Present</h5>
+                <p>
+                  <em>La Verdad Christian College, Apalit, Pampanga</em>
+                </p>
+                <p>President Lister for 1 year.</p>
+              </div>
+              <div className="resume-item">
+                <h4>Senior High School</h4>
+                <h5>2021 - 2023</h5>
+                <p>
+                  <em>La Verdad Christian School, Apalit, Pampanga</em>
+                </p>
+                <p>Graduated with honors.</p>
+              </div>
+              <div className="resume-item">
+                <h4>High School</h4>
+                <h5>2017 - 2021</h5>
+                <p>
+                  <em>Concepcion Integrated Secondary Level, Marikina</em>
+                </p>
+                <p>Graduated with honors.</p>
               </div>
             </div>
-          </section>
+            <div className="col-lg-6" data-aos="fade-up" data-aos-delay={200}>
+              <h3 className="resume-title">Professional Experience</h3>
+              <div className="resume-item">
+                <h4>Student Assistant (Work Immersion)</h4>
+                <h5>2022 - 2023</h5>
+                <p>
+                  <em>La Verdad Christian School</em>
+                </p>
+                <ul>
+                  <li>Assisted students with device usage.</li>
+                  <li>Taught programming fundamentals, including C++ and flow controls.</li>
+                </ul>
+              </div>
+              <h3 className="resume-title">Skills</h3>
+              <div className="resume-item">
+                <ul>
+                  <li>
+                    <strong>Programming Languages:</strong> .NET, PHP, VB.NET, Python, Java, C++, C#, JavaScript, HTML, CSS, ASP
+                  </li>
+                  <li>
+                    <strong>Database:</strong> Skilled in MySQL (design, implementation, optimization, management)
+                  </li>
+                  <li>
+                    <strong>Tools & IDEs:</strong> GitHub, Visual Studio Code, MS Visual Studio
+                  </li>
+                  <li>
+                    <strong>Other Skills:</strong> Leadership, critical thinking, collaboration
+                  </li>
+                </ul>
+              </div>
+              <h3 className="resume-title">Projects</h3>
+              <div className="resume-item">
+                <h4>AI Yoga App</h4>
+                <h5>2025</h5>
+                <p>
+                  Developed a Laravel-based video generation system with AI integration. Created personalized videos based on user preferences and implemented backend AI algorithms.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
-  )
+  );
 }
 
-export default Resume
+export default Resume;

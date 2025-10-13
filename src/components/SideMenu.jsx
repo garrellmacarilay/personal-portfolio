@@ -16,23 +16,20 @@ function SideMenu() {
 
         <a href="index.html" className="logo d-flex align-items-center justify-content-center">          
          {/* <img src="assets/img/logo.png" alt="Logo">  */}
-          <h1 className="sitename">Garrell Manyaman</h1>
+          <h1 className="sitename">Garrell Macarilay</h1>
         </a>
 
         <div className="social-links text-center">
-          <a href="#" className="twitter">
-            <i className="bi bi-twitter-x" />
-          </a>
-          <a href="#" className="facebook">
+          <a href="https://www.facebook.com/garrell.macarilay" className="facebook" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-facebook" />
           </a>
-          <a href="#" className="instagram">
+          <a href="https://www.instagram.com/grrell_akts/" className="instagram" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-instagram" />
           </a>
-          <a href="#" className="google-plus">
-            <i className="bi bi-skype" />
+          <a href="https://github.com/garrellmacarilay" className="google-plus" target="_blank" rel="noopener noreferrer">
+            <i className="bi bi-github" />
           </a>
-          <a href="#" className="linkedin">
+          <a href="https://www.linkedin.com/in/garrell-macarilay-a56a16300/" className="linkedin" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-linkedin" />
           </a>
         </div>
@@ -51,12 +48,12 @@ function SideMenu() {
             </li>
              <li>
               <a href="#portfolio">
-                <i className="bi bi-images navicon" /> Portfolio
+                <i className="bi bi-lightbulb navicon" /> Portfolio
               </a>
             </li>
             <li>
               <a href="#services">
-                <i className="bi bi-hdd-stack navicon" /> Services
+                <i className="bi bi- navicon" /> Services
               </a>
             </li>
             <li>
