@@ -4,12 +4,13 @@ import 'aos/dist/aos.css'; // Import AOS styles
 import SideMenu from './components/SideMenu';
 import Hero from './components/Hero';
 import About from './components/About';
-import Stats from './components/Stats';
+import Tech from './components/Tech';
 import Skills from './components/Skills';
 import Resume from './components/Resume';
 import Portfoilio from './components/Portfoilio';
 import Contact from './components/Contact';
 import './styles/global.css';
+import Certificates from './components/Certificates';
 
 
 function App() {
@@ -28,13 +29,16 @@ function App() {
           <About />
         </div>
         <div className="floating-modal">
+          <Certificates />
+        </div>
+        <div className="floating-modal">
           <Portfoilio />
         </div>
         <div className="floating-modal">
           <Skills />
         </div>
         <div className="floating-modal">
-          <Stats />
+          <Tech />
         </div>
         <div className="floating-modal">
           <Resume />

@@ -14,39 +14,74 @@ function Contact() {
             </div>
             <div className="container" data-aos="fade-up" data-aos-delay={100}>
               <div className="row gy-1">
-                <div className="col-lg-13">
+                <div className="col-lg-12">
                   <div className="info-wrap">
-                    <div
-                      className="info-item d-flex"
-                      data-aos="fade-up"
-                      data-aos-delay={200}
-                    >
-                      <i className="bi bi-geo-alt flex-shrink-0" />
-                      <div>
-                        <h3>Address</h3>
-                        <p>Marikina, Philippines</p>
+                    <div className="info-grid">
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={200}
+                      >
+                        <i className="bi bi-geo-alt flex-shrink-0" />
+                        <div>
+                          <h3>Visit Me</h3>
+                          <p>Marikina City, Philippines</p>
+                        </div>
                       </div>
-                    </div>
-                    <div
-                      className="info-item d-flex"
-                      data-aos="fade-up"
-                      data-aos-delay={300}
-                    >
-                      <i className="bi bi-telephone flex-shrink-0" />
-                      <div>
-                        <h3>Call Me</h3>
-                        <p>63+ 9195947844</p>
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={600}
+                      >
+                        <i className="bi bi-linkedin flex-shrink-0" />
+                        <div>
+                          <h3>Linkedin</h3>
+                          <p>Garrell Macarilay</p>
+                        </div>
                       </div>
-                    </div>
-                    <div
-                      className="info-item d-flex"
-                      data-aos="fade-up"
-                      data-aos-delay={400}
-                    >
-                      <i className="bi bi-envelope flex-shrink-0" />
-                      <div>
-                        <h3>Email Me</h3>
-                        <p>gmacarilay1@gmail.com</p>
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={400}
+                      >
+                        <i className="bi bi-envelope flex-shrink-0" />
+                        <div>
+                          <h3>Email Me</h3>
+                          <p>gmacarilay1@gmail.com</p>
+                        </div>
+                      </div>
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={500}
+                      >
+                        <i className="bi bi-facebook flex-shrink-0" />
+                        <div>
+                          <h3>Facebook</h3>
+                          <p>Macarilay Garrell</p>
+                        </div>
+                      </div>
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={300}
+                      >
+                        <i className="bi bi-telephone flex-shrink-0" />
+                        <div>
+                          <h3>Call Me</h3>
+                          <p>63+ 9195947844</p>
+                        </div>
+                      </div>
+                      <div
+                        className="info-item d-flex"
+                        data-aos="fade-up"
+                        data-aos-delay={700}
+                      >
+                        <i className="bi bi-github flex-shrink-0" />
+                        <div>
+                          <h3>Github</h3>
+                          <p>garrellmacarilay</p>
+                        </div>
                       </div>
                     </div>
                     <iframe

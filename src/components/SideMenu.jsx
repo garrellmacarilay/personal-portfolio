@@ -46,14 +46,14 @@ function SideMenu() {
                 <i className="bi bi-person navicon" /> About
               </a>
             </li>
+            <li>
+              <a href="#services">
+                <i className="bi bi-award navicon" /> Certificates
+              </a>
+            </li>
              <li>
               <a href="#portfolio">
                 <i className="bi bi-lightbulb navicon" /> Portfolio
-              </a>
-            </li>
-            <li>
-              <a href="#services">
-                <i className="bi bi- navicon" /> Services
               </a>
             </li>
             <li>
