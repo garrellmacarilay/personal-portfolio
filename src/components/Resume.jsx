@@ -3,10 +3,10 @@ import React from 'react';
 function Resume() {
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = process.env.PUBLIC_URL + '/assets/Macarilay_Resume.pdf'; // Ensure the file is in the public/assets folder
+    link.href = '/assets/Macarilay_Resume.pdf'; // Removed '/public' from the path
     link.download = 'Macarilay_Resume.pdf'; // The name of the downloaded file
     link.click();
-  };
+  }
 
   return (
     <>
