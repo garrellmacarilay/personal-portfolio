@@ -24,6 +24,7 @@ body,
 
 .dark-theme .navmenu ul li a.active {
   color: #1e90ff; /* Active navigation link */
+  font-weight: bold; /* Optional: Highlight active link */
 }
 
 .dark-theme .btn,
@@ -84,4 +85,18 @@ body,
   flex-direction: column;
   align-items: center; /* Center content horizontally */
   justify-content: center; /* Center content vertically */
+}
+
+.portfolio-content img {
+  width: 100%; /* Ensure images take up the full width of their container */
+  height: 200px; /* Set a fixed height for uniformity */
+  object-fit: cover; /* Crop images to maintain aspect ratio */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+/* Add hover effect for main content when scrolling */
+.main-content.scrolling {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transform: scale(1.02); /* Slightly enlarge the content */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Add shadow effect */
 }

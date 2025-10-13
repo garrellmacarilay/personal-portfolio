@@ -22,39 +22,40 @@ function Portfoilio() {
                     data-aos="fade-up"
                     data-aos-delay={200}
                 >
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/app-1.jpg"
+                        src="assets/img/Projects/Opendoor.jpg"
                         className="img-fluid"
                         alt=""
                         />
                         <div className="portfolio-info">
-                        <h4>AI Yoga App</h4>
-                        <p>Generate Personlize Yoga Video based on user preference</p>
+                        <h4>OpenDoor - In Progress</h4>
+                        <p>Appointment System that provide schdules and availability of the PSAS Office</p>
                         <a
-                            href="assets/img/portfolio/app-1.jpg"
-                            title="App 1"
+                            href="assets/img/Projects/Opendoor.jpg"
+                            title="App 2"
                             data-gallery="portfolio-gallery-app"
                             className="glightbox preview-link"
                         >
                             <i className="bi bi-zoom-in" />
                         </a>
                         <a
-                            href="portfolio-details.html"
+                            href="https://github.com/garrellmacarilay/open-door"
                             title="More Details"
                             className="details-link"
-                            target="_blank" rel="noopener noreferrer"
                         >
                             <i className="bi bi-github" />
                         </a>
                         </div>
                     </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/product-1.jpg"
+                        src="assets/img/Projects/BasaBata.png"
                         className="img-fluid"
                         alt=""
                         />
@@ -62,7 +63,7 @@ function Portfoilio() {
                         <h4>BasaBata E-book Website</h4>
                         <p>Web based orgranized E-book of Noli Me Tangere and El Filibusterismo with Tagalog Dictionary</p>
                         <a
-                            href="assets/img/portfolio/product-1.jpg"
+                            href="assets/img/Projects/BasaBata.png"
                             title="Product 1"
                             data-gallery="portfolio-gallery-product"
                             className="glightbox preview-link"
@@ -80,10 +81,11 @@ function Portfoilio() {
                         </div>
                     </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/branding-1.jpg"
+                        src="assets/img/Projects/Rebook.png"
                         className="img-fluid"
                         alt=""
                         />
@@ -91,7 +93,7 @@ function Portfoilio() {
                         <h4>ReBook E-commerce Website</h4>
                         <p>School Supply E-commerce Website</p>
                         <a
-                            href="assets/img/portfolio/branding-1.jpg"
+                            href="assets/img/Projects/Rebook.png"
                             title="Branding 1"
                             data-gallery="portfolio-gallery-branding"
                             className="glightbox preview-link"
@@ -109,10 +111,11 @@ function Portfoilio() {
                         </div>
                     </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/books-1.jpg"
+                        src="assets/img/Projects/Noto.png"
                         className="img-fluid"
                         alt=""
                         />
@@ -120,7 +123,7 @@ function Portfoilio() {
                         <h4>Noto - Note App</h4>
                         <p>Authenticated Note App with CRUD Functions and Updatable Profile Information </p>
                         <a
-                            href="assets/img/portfolio/books-1.jpg"
+                            href="assets/img/Projects/Noto.png"
                             title="Branding 1"
                             data-gallery="portfolio-gallery-book"
                             className="glightbox preview-link"
@@ -138,26 +141,57 @@ function Portfoilio() {
                         </div>
                     </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/app-2.jpg"
+                        src="assets/img/Projects/Yoga.png"
                         className="img-fluid"
                         alt=""
                         />
                         <div className="portfolio-info">
-                        <h4>OpenDoor - In Progress</h4>
-                        <p>Appointment System that provide schdules and availability of the PSAS Office</p>
+                        <h4>AI Yoga App</h4>
+                        <p>Generate Personlize Yoga Video based on user preference</p>
                         <a
-                            href="assets/img/portfolio/app-2.jpg"
-                            title="App 2"
+                            href="assets/img/Projects/Yoga.png"
+                            title="App 1"
                             data-gallery="portfolio-gallery-app"
                             className="glightbox preview-link"
                         >
                             <i className="bi bi-zoom-in" />
                         </a>
                         <a
-                            href="portfolio-details.html"
+                            href="#"
+                            title="More Details"
+                            className="details-link"
+                            target="_blank" rel="noopener noreferrer"
+                        >
+                            <i className="bi bi-github" />
+                        </a>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                    <div className="portfolio-content h-100">
+                        <img
+                        src="assets/img/Projects/Ownchain.png"
+                        className="img-fluid"
+                        alt=""
+                        />
+                        <div className="portfolio-info">
+                        <h4>OwnChain - In Progress</h4>
+                        <p>Social Block Chain Website</p>
+                        <a
+                            href="assets/img/Projects/Ownchain.png"
+                            title="Product 2"
+                            data-gallery="portfolio-gallery-product"
+                            className="glightbox preview-link"
+                        >
+                            <i className="bi bi-zoom-in" />
+                        </a>
+                        <a
+                            href="https://github.com/garrellmacarilay/BitWise-OwnChain"
                             title="More Details"
                             className="details-link"
                         >
@@ -166,31 +200,11 @@ function Portfoilio() {
                         </div>
                     </div>
                     </div>
-                    <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-                    <div className="portfolio-content h-100">
-                        <img
-                        src="assets/img/portfolio/product-2.jpg"
-                        className="img-fluid"
-                        alt=""
-                        />
-                        <div className="portfolio-info">
-                        <h4>OwnChain - In Progress</h4>
-                        <p>Social Block Chain Website</p>
-                        <a
-                            href="assets/img/portfolio/product-2.jpg"
-                            title="Product 2"
-                            data-gallery="portfolio-gallery-product"
-                            className="glightbox preview-link"
-                        >
-                            <i className="bi bi-zoom-in" />
-                        </a>
-                        </div>
-                    </div>
-                    </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                     <div className="portfolio-content h-100">
                         <img
-                        src="assets/img/portfolio/branding-2.jpg"
+                        src="assets/img/Projects/Agrinvest.png"
                         className="img-fluid"
                         alt=""
                         />
@@ -198,7 +212,7 @@ function Portfoilio() {
                         <h4>AGRiNVEST - In Progress</h4>
                         <p>Investment Platform based on Blockchain to support small farmers from small and big investors</p>
                         <a
-                            href="assets/img/portfolio/branding-2.jpg"
+                            href="assets/img/Projects/Agrinvest.png"
                             title="Branding 2"
                             data-gallery="portfolio-gallery-branding"
                             className="glightbox preview-link"
