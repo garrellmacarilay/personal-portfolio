@@ -52,13 +52,9 @@ function SideMenu() {
           />
         </div>
 
-        <a
-          href="index.html"
-          className="logo d-flex align-items-center justify-content-center"
-        >
-          {/* <img src="assets/img/logo.png" alt="Logo">  */}
+        <span className="logo d-flex align-items-center justify-content-center">
           <h1 className="sitename">Garrell Macarilay</h1>
-        </a>
+        </span>
 
         <div className="social-links text-center">
           <a
