@@ -21,10 +21,9 @@ function About() {
             />
           </div>
           <div className="col-lg-8 content">
-            <h2>Developer &amp; Web3 Developer.</h2>
+            <h2>Software Engineer & Tech Founder.</h2>
             <p className="fst-italic py-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Software Engineer and Co-Founder driven by the vision to invent something impactful in the future. I strive to build innovative solutions that create real change, constantly exploring new technologies and ideas to push boundaries. My guiding motto is simple but powerful: “Learn how to learn fast.”
             </p>
             <div className="row">
               <div className="col-lg-6">

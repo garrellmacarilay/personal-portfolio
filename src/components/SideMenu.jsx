@@ -19,6 +19,19 @@ function SideMenu() {
         }
       })
 
+      // Special handling for the contact section
+      const contactSection = document.querySelector('#contact')
+      if (contactSection) {
+        const contactTop = contactSection.offsetTop - 50
+        const contactHeight = contactSection.offsetHeight
+        if (
+          window.scrollY >= contactTop &&
+          window.scrollY < contactTop + contactHeight
+        ) {
+          currentSection = 'contact'
+        }
+      }
+
       setActiveSection(currentSection)
     }
 

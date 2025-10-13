@@ -61,7 +61,7 @@ function Portfoilio() {
                         />
                         <div className="portfolio-info">
                         <h4>BasaBata E-book Website</h4>
-                        <p>Web based orgranized E-book of Noli Me Tangere and El Filibusterismo with Tagalog Dictionary</p>
+                        <p>Web based orgranized Tagalog E-book </p>
                         <a
                             href="assets/img/Projects/BasaBata.png"
                             title="Product 1"
@@ -201,6 +201,9 @@ function Portfoilio() {
                     </div>
                     </div>
 
+                    <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                    </div>
+
                     <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                     <div className="portfolio-content h-100">
                         <img
@@ -210,7 +213,7 @@ function Portfoilio() {
                         />
                         <div className="portfolio-info">
                         <h4>AGRiNVEST - In Progress</h4>
-                        <p>Investment Platform based on Blockchain to support small farmers from small and big investors</p>
+                        <p>Small Farmers Investment Platform </p>
                         <a
                             href="assets/img/Projects/Agrinvest.png"
                             title="Branding 2"
@@ -221,6 +224,9 @@ function Portfoilio() {
                         </a>
                         </div>
                     </div>
+                    </div>
+
+                    <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                     </div>
                 </div>
                 </div>
