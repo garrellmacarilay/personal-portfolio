@@ -33,7 +33,7 @@ function Resume() {
                   </em>
                 </p>
                 <ul>
-                  <li>Lot 2 Blk 10 6th Ave Larlin Village, Sampaloc, Apalit</li>
+                  <li>Marikina City, Philippines</li>
                   <li>09195947844</li>
                   <li>gmacarilay1@gmail.com</li>
                 </ul>
@@ -45,7 +45,8 @@ function Resume() {
                 <p>
                   <em>La Verdad Christian College, Apalit, Pampanga</em>
                 </p>
-                <p>President Lister for 1 year.</p>
+                <p>2st Year - President Lister</p>
+                <p>1st Year - President Lister</p>
               </div>
               <div className="resume-item">
                 <h4>Senior High School</h4>
