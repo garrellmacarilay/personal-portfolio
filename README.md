@@ -15,21 +15,15 @@ The purpose of this portfolio is to provide a professional yet personal platform
 ### 🏠 Home
 An introductory section featuring my name, professional title and professional cover photo 
 
-### 🏠 Home / About
+### 🏠 About
 The **Home** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission.  
 The **About** section dives deeper into my story — outlining my background, interests, and values.  
-It shares how I started my journey in technology, my drive to innovate, and the philosophy that keeps me moving forward:  
-> “Learn how to learn fast.”
 
 ---
 
 ### 🪪 Certificates
 This section features verified certifications that reflect my dedication to continuous learning and growth.  
-It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**, covering topics such as:
-- Personal Finance Education, Planning, Investing & Management  
-- Fundamentals of Marketing  
-- Investment Risk Management  
-- Agile Project Management  
+It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**
 
 Each certificate represents a milestone that broadens my technical and professional perspective.
 
@@ -49,6 +43,12 @@ The design ensures that my strengths are both easy to understand and visually ap
 
 ---
 
+### ⚙️ Tech Stack
+This portfolio is built using a modern and efficient **technology stack** that reflects my hands-on experience with both frontend and deployment tools.  
+The stack ensures a fast, responsive, and maintainable user experience.
+
+---
+
 ### 📄 Resume
 This section provides a downloadable **PDF résumé**, offering a concise summary of my **education, experience, and achievements**.  
 It serves as a quick reference for potential employers or collaborators who want an overview of my professional qualifications.
@@ -60,6 +60,7 @@ The final section encourages visitors to connect — whether for collaborations,
 It includes direct links to my **email** and professional profiles such as **LinkedIn, GitHub, Facebook,** and **Instagram**, making communication seamless and accessible.
 
 ---
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
