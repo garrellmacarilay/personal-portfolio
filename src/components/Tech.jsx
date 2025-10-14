@@ -3,7 +3,9 @@ import React from 'react';
 function Tech() {
   return (
     <section id="stats" className="stats section">
-      <h2>Tech Stack</h2>
+      <div className="container section-title" data-aos="fade-up">
+        <h2>Tech Stack</h2>
+      </div>
       <div className="container" data-aos="fade-up" data-aos-delay={100}>
         <div className="row gy-4">
           <div className="col-lg-3 col-md-6">

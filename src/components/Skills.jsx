@@ -6,10 +6,7 @@ function Skills() {
       {/* Section Title */}
       <div className="container section-title" data-aos="fade-up">
         <h2>Skills</h2>
-        <p>
-          Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
-          consectetur velit
-        </p>
+
       </div>
       {/* End Section Title */}
       <div className="container" data-aos="fade-up" data-aos-delay={100}>
@@ -17,7 +14,7 @@ function Skills() {
           <div className="col-lg-6">
             <div className="progress">
               <span className="skill">
-                <span>HTML</span> <i className="val">100%</i>
+                <span>Time Management</span> <i className="val">100%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -32,7 +29,7 @@ function Skills() {
             {/* End Skills Item */}
             <div className="progress">
               <span className="skill">
-                <span>CSS</span> <i className="val">90%</i>
+                <span>Problem Solving</span> <i className="val">90%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -47,13 +44,13 @@ function Skills() {
             {/* End Skills Item */}
             <div className="progress">
               <span className="skill">
-                <span>JavaScript</span> <i className="val">75%</i>
+                <span>Developing</span> <i className="val">80%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
                   className="progress-bar"
                   role="progressbar"
-                  aria-valuenow={75}
+                  aria-valuenow={80}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 />
@@ -64,7 +61,7 @@ function Skills() {
           <div className="col-lg-6">
             <div className="progress">
               <span className="skill">
-                <span>PHP</span> <i className="val">80%</i>
+                <span>Communication</span> <i className="val">80%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -79,7 +76,7 @@ function Skills() {
             {/* End Skills Item */}
             <div className="progress">
               <span className="skill">
-                <span>WordPress/CMS</span> <i className="val">90%</i>
+                <span>Leadership</span> <i className="val">90%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -92,15 +89,15 @@ function Skills() {
               </div>
             </div>
             {/* End Skills Item */}
-            <div className="progress">
+             <div className="progress">
               <span className="skill">
-                <span>Photoshop</span> <i className="val">55%</i>
+                <span>Flexibility</span> <i className="val">90%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
                   className="progress-bar"
                   role="progressbar"
-                  aria-valuenow={55}
+                  aria-valuenow={90}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 />
