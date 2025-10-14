@@ -111,7 +111,7 @@ function SideMenu() {
             </li>
             <li>
               <a
-                href="#services"
+                href="#certificates"
                 className={
                   activeSection === 'certificates' ? 'active' : ''
                 }
