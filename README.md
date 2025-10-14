@@ -75,7 +75,7 @@ It includes direct links to my **email** and professional profiles such as **Lin
 
 ## ✨ Features & Functionality
 
-- 🎨 **Semi Responsive Design:** Works seamlessly across desktops, tablets, and not fully fpr mobile devices. 
+- 🎨 **Semi Responsive Design:** Works seamlessly across desktops, tablets, and not fully for mobile devices. 
 - ⚡ **Smooth Navigation:** Sidebar navigation with active link highlights.  
 - 💬 **Interactive Sections:** Hover effects and animations for engaging user interaction.  
 - 📁 **Dynamic Content:** Modular structure that makes it easy to update and scale.
@@ -106,8 +106,8 @@ npm run dev
 ## Live Demo
 You can access the live version of your portfolio once it's deployed:
 
-### **GitHub Pages URL:
+### GitHub Pages URL:
 https://garrellmacarilay.github.io/personal-portfolio/
 
-### ** Recording:
+### Recording:
 Your demo link here
