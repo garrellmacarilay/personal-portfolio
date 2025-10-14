@@ -15,52 +15,51 @@ The purpose of this portfolio is to provide a professional yet personal platform
 ### 🏠 Home
 An introductory section featuring my name, professional title and professional cover photo 
 
-### 👤 About
-I’m a **Software Engineer and Co-Founder** driven by the vision to invent something impactful in the future.  
-I strive to build **innovative solutions** that create real change — constantly exploring new technologies and ideas to push boundaries.  
-
-> 💡 My guiding motto: **“Learn how to learn fast.”**
-
----
-
-### 🧭 Personal Details
-
-| **Field** | **Information** |
-|------------|-----------------|
-| **Name** | Garrell B. Macarilay |
-| **Phone** | +63 919 594 7844 |
-| **City** | Marikina, Philippines |
-| **Motto** | Keep Moving Forward |
-| **Age** | 21 |
-| **Course** | BS Information System |
-| **Email** | [gmacarilay1@gmail.com](mailto:gmacarilay1@gmail.com) |
-| **Hobbies** | 🎸 Guitar &nbsp;&nbsp; 🎨 Drawing &nbsp;&nbsp; 🚴 Cycling &nbsp;&nbsp; 🏋️ Workout |
+### 🏠 Home / About
+The **Home** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission.  
+The **About** section dives deeper into my story — outlining my background, interests, and values.  
+It shares how I started my journey in technology, my drive to innovate, and the philosophy that keeps me moving forward:  
+> “Learn how to learn fast.”
 
 ---
-
-> _“Keep moving forward, keep learning, and never stop building.”_
 
 ### 🪪 Certificates
-Displays verified certificates from platforms such as **Udemy, Coursera, and DICT**, covering topics like:
-- **Personal Finance Education, Planning, Investing & Management**
-- **Fundamentals of Marketing**
-- **Investment Risk Management**
-- **Agile Project Management**
+This section features verified certifications that reflect my dedication to continuous learning and growth.  
+It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**, covering topics such as:
+- Personal Finance Education, Planning, Investing & Management  
+- Fundamentals of Marketing  
+- Investment Risk Management  
+- Agile Project Management  
 
-### 💼 Portfolio
-Showcases my hands-on technical projects with project previews, descriptions, and links to repositories or live demos.
-
-### 🧠 Skills
-Lists programming languages, frameworks, and tools I’m proficient in — represented visually for easier understanding.
-
-### 📄 Resume
-Provides a downloadable PDF version of my resume summarizing my professional qualifications, experiences, and accomplishments.
-
-### 📬 Contact
-Offers easy access for anyone to reach out through my **email** or **social media profiles (Facebook, Instagram, GitHub, LinkedIn)**.
+Each certificate represents a milestone that broadens my technical and professional perspective.
 
 ---
 
+### 💼 Portfolio
+A detailed showcase of my **projects and innovations**, demonstrating my technical ability, creativity, and problem-solving mindset.  
+Visitors can explore the technologies I use, read short descriptions of each project, and access live demos or GitHub repositories.  
+This section gives a clear look at how I approach development — from concept to deployment.
+
+---
+
+### 🧠 Skills
+A visually engaging presentation of my **programming languages, frameworks, and tools**.  
+It highlights my versatility across different technologies, while maintaining clarity through organized categories and interactive visuals.  
+The design ensures that my strengths are both easy to understand and visually appealing.
+
+---
+
+### 📄 Resume
+This section provides a downloadable **PDF résumé**, offering a concise summary of my **education, experience, and achievements**.  
+It serves as a quick reference for potential employers or collaborators who want an overview of my professional qualifications.
+
+---
+
+### 📬 Contact
+The final section encourages visitors to connect — whether for collaborations, professional opportunities, or simply sharing ideas.  
+It includes direct links to my **email** and professional profiles such as **LinkedIn, GitHub, Facebook,** and **Instagram**, making communication seamless and accessible.
+
+---
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
