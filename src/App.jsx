@@ -12,7 +12,6 @@ import Contact from './components/Contact';
 import './styles/global.css';
 import Certificates from './components/Certificates';
 import { addScrollEffect } from './utils/ScrollEffect';
-import Header from './components/Header'; 
 
 function App() {
 
