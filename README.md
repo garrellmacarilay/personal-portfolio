@@ -21,10 +21,8 @@ The **About** section serves as a welcoming introduction, featuring a profession
 ---
 
 ### 🪪 Certificates
-This section features verified certifications that reflect my dedication to continuous learning and growth.  
-It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**
-
-Each certificate represents a milestone that broadens my technical and professional perspective.
+This section features with verified certifications that reflect my dedication to continuous learning and growth.  
+It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**. Each certificate represents a milestone that broadens my technical and professional perspective.
 
 ---
 
@@ -36,27 +34,22 @@ This section gives a clear look at how I approach development — from concept t
 ---
 
 ### 🧠 Skills
-A visually engaging presentation of my **programming languages, frameworks, and tools**.  
-It highlights my versatility across different technologies, while maintaining clarity through organized categories and interactive visuals.  
-The design ensures that my strengths are both easy to understand and visually appealing.
+A visually engaging presentation of my **programming languages, frameworks, and tools** percentages. It highlights my versatility across different skilss. The design ensures that my strengths are both easy to understand and visually appealing.
 
 ---
 
 ### ⚙️ Tech Stack
-This portfolio is built using a modern and efficient **technology stack** that reflects my hands-on experience with both frontend and deployment tools.  
-The stack ensures a fast, responsive, and maintainable user experience.
+Inclued all technologies and tools I've use for building scalable web applications, crafting modern user interfaces, and managing backend systems. My stack covers both frontend and backend development, along with deployment and version control.
 
 ---
 
 ### 📄 Resume
-This section provides a downloadable **PDF résumé**, offering a concise summary of my **education, experience, and achievements**.  
-It serves as a quick reference for potential employers or collaborators who want an overview of my professional qualifications.
+This section provides a downloadable **PDF résumé**, offering a concise summary of my **education, experience, and achievements**. It serves as a quick reference for potential employers or collaborators who want an overview of my professional qualifications.
 
 ---
 
 ### 📬 Contact
-The final section encourages visitors to connect — whether for collaborations, professional opportunities, or simply sharing ideas.  
-It includes direct links to my **email** and professional profiles such as **LinkedIn, GitHub, Facebook,** and **Instagram**, making communication seamless and accessible.
+The final section encourages visitors to connect for collaborations, professional opportunities, or simply sharing ideas. It includes direct links to my **email** and professional profiles such as **LinkedIn, GitHub, Facebook,** and **Instagram**, making communication seamless and accessible.
 
 ---
 
