@@ -213,7 +213,7 @@ function Portfoilio() {
                         />
                         <div className="portfolio-info">
                         <h4>AGRiNVEST - In Progress</h4>
-                        <p>Small Farmers Investment Platform </p>
+                        <p>Small Farmers Blockchain Investment Platform </p>
                         <a
                             href="assets/img/Projects/Agrinvest.png"
                             title="App"
