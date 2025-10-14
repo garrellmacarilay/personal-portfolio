@@ -46,9 +46,9 @@ function SideMenu() {
 
         <div className="profile-img">
           <img
-            src="assets/img/my-profile-img.jpg"
+            src="assets/img/favicon.png"
             alt=""
-            className="img-fluid rounded-circle"
+           
           />
         </div>
 

@@ -24,7 +24,7 @@ function App() {
     <div className="dark-theme">
       <SideMenu />
       <main className="main">
-        
+
         <div id="hero" >
           <Hero />
         </div>
