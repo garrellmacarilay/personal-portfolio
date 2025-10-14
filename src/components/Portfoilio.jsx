@@ -35,7 +35,7 @@ function Portfoilio() {
                         <p>Appointment System that provide schdules and availability of the PSAS Office</p>
                         <a
                             href="assets/img/Projects/Opendoor.jpg"
-                            title="App 2"
+                            title="App"
                             data-gallery="portfolio-gallery-app"
                             className="glightbox preview-link"
                         >
@@ -64,7 +64,7 @@ function Portfoilio() {
                         <p>Web based orgranized Tagalog E-book </p>
                         <a
                             href="assets/img/Projects/BasaBata.png"
-                            title="Product 1"
+                            title="App"
                             data-gallery="portfolio-gallery-product"
                             className="glightbox preview-link"
                         >
@@ -94,7 +94,7 @@ function Portfoilio() {
                         <p>School Supply E-commerce Website</p>
                         <a
                             href="assets/img/Projects/Rebook.png"
-                            title="Branding 1"
+                            title="App"
                             data-gallery="portfolio-gallery-branding"
                             className="glightbox preview-link"
                         >
@@ -124,7 +124,7 @@ function Portfoilio() {
                         <p>Authenticated Note App with CRUD Functions and Updatable Profile Information </p>
                         <a
                             href="assets/img/Projects/Noto.png"
-                            title="Branding 1"
+                            title="App"
                             data-gallery="portfolio-gallery-book"
                             className="glightbox preview-link"
                             target="_blank" rel="noopener noreferrer"
@@ -154,7 +154,7 @@ function Portfoilio() {
                         <p>Generate Personlize Yoga Video based on user preference</p>
                         <a
                             href="assets/img/Projects/Yoga.png"
-                            title="App 1"
+                            title="App"
                             data-gallery="portfolio-gallery-app"
                             className="glightbox preview-link"
                         >
@@ -184,7 +184,7 @@ function Portfoilio() {
                         <p>Social Block Chain Website</p>
                         <a
                             href="assets/img/Projects/Ownchain.png"
-                            title="Product 2"
+                            title="App"
                             data-gallery="portfolio-gallery-product"
                             className="glightbox preview-link"
                         >
@@ -216,7 +216,7 @@ function Portfoilio() {
                         <p>Small Farmers Investment Platform </p>
                         <a
                             href="assets/img/Projects/Agrinvest.png"
-                            title="Branding 2"
+                            title="App"
                             data-gallery="portfolio-gallery-branding"
                             className="glightbox preview-link"
                         >
