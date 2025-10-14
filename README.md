@@ -16,7 +16,7 @@ The purpose of this portfolio is to provide a professional yet personal platform
 An introductory section featuring my name, professional title and professional cover photo 
 
 ### 👨🏻‍💻 About
-The **About** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission. It dives deeper into my story — outlining my background, interests, and values.  
+The **About** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission. It dives deeper into my story outlining my background, interests, and values.  
 
 ---
 
@@ -29,7 +29,7 @@ It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT
 ### 💼 Portfolio
 A detailed showcase of my **projects and innovations**, demonstrating my technical ability, creativity, and problem-solving mindset.  
 Visitors can explore the technologies I use, read short descriptions of each project, and access live demos or GitHub repositories.  
-This section gives a clear look at how I approach development — from concept to deployment.
+This section gives a clear look at how I approach development from concept to deployment.
 
 ---
 
