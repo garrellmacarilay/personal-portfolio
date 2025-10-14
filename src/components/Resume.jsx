@@ -8,19 +8,37 @@ function Resume() {
     link.click();
   }
 
+   const openGoogleDrive = () => {
+    window.open(
+      "https://drive.google.com/file/d/1bn-JIXrOb-PWrKNUWQDR1nLb7dLc4QdY/view?usp=sharing",
+      "_blank"
+    );
+  };
   return (
     <>
       <section id="resume" className="resume section">
         <div className="container section-title" data-aos="fade-up">
           <h2>Resume</h2>
+         <button
+            className="btn btn-outline-light d-flex align-items-center gap-2 mx-auto px-4 py-2 pa-3 mb-3"
+            onClick={downloadResume}
+          >
+            <i className="bi bi-cloud-arrow-down fs-5"></i>
+            Download Resume
+          </button>
           <p>
             A motivated and detail-oriented Information Systems student seeking an entry-level software engineering position to leverage technical skills and academic knowledge. Eager to contribute to dynamic development teams.
           </p>
-          <br />
-          <button className="btn" onClick={downloadResume}>
-            Download Resume
+          <br/>
+          <button
+            className="btn btn-outline-light d-flex align-items-center gap-2 mx-auto px-4 py-2"
+            onClick={openGoogleDrive}
+          >
+            <i className="bi bi-cloud-arrow-down fs-5"></i>
+            View on Google Drive
           </button>
         </div>
+        
         <div className="container">
           <div className="row">
             <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
