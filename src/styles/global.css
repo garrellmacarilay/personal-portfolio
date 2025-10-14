@@ -51,6 +51,7 @@ body,
   padding: 30px;
   margin: 30px;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  
 }
 
 
@@ -67,9 +68,9 @@ body,
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
   display: flex;
   flex-direction: column; /* Stack items vertically */
-  justify-content: space-between; /* Evenly distribute space between items */
+  justify-content: space-evenly; /* Evenly distribute space between items */
   align-items: center; /* Center items horizontally */
-  padding: 20px; /* Add padding for better spacing */
+  padding-top: 4px; /* Add padding for better spacing */
 }
 
 .navmenu ul {

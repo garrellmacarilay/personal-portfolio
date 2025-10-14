@@ -166,7 +166,7 @@ h6 {
   width: 120px;
  
 }
-
+git 
 .header .logo {
   line-height: 1;
   margin-bottom: 15px;
@@ -190,6 +190,7 @@ h6 {
 }
 
 .header .social-links {
+  padding-top: 20px;
   margin: 0 0 20px 0;
 }
 

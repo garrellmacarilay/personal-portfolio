@@ -12,6 +12,7 @@ import Contact from './components/Contact';
 import './styles/global.css';
 import Certificates from './components/Certificates';
 import { addScrollEffect } from './utils/ScrollEffect';
+import Footer from './components/footer';
 
 function App() {
 
@@ -48,6 +49,9 @@ function App() {
         </div>
         <div id="contact" className="floating-modal">
           < Contact />
+        </div>
+        <div id="contact" className="floating-modal">
+          < Footer />
         </div>
       </main>
     </div>
