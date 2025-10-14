@@ -59,6 +59,7 @@ function Contact() {
                         <div>
                           <h3>Facebook</h3>
                           <p>Macarilay Garrell</p>
+                          <p>{"(Preferable Contact)"}</p>
                         </div>
                       </div>
                       <div

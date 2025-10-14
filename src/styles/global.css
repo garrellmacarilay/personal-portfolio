@@ -38,20 +38,21 @@ body,
   background-color: #0b6cbf; /* Button hover effect */
 }
 
+/* Other modals */
 .floating-modal {
-  background-color: #121212; /* Dark background for modal */
-  color: #ffffff; /* Light text color */
-  font-size: 16px; /* Readable font size */
-  border-radius: 25px; /* Rounded corners */
-  padding: 30px; /* Adequate padding */
-  margin: 30px; /* Spacing between modals */
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* Floating effect with shadow */
+  background-color: #121212;
 }
 
-.floating-modal.portfolio,
-.floating-modal.skills {
-  background-color: #121212; /* Dark background for Portfolio and Skills modals */
+/* Reapply common styles to all */
+.floating-modal,
+.floating-modal .hero {
+  color: #ffffff;
+  border-radius: 25px;
+  padding: 30px;
+  margin: 30px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
 }
+
 
 .header {
   background-color: #121212; 

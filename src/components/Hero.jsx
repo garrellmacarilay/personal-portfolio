@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <section id="hero" className="hero section dark-background">
+    <section id="hero" className="hero floating-modal">
       <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in" />
       <div className="container" data-aos="fade-up" data-aos-delay={100}>
         <h2>Garrell Macarilay</h2>
