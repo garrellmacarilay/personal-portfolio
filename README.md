@@ -15,9 +15,8 @@ The purpose of this portfolio is to provide a professional yet personal platform
 ### 🏠 Home
 An introductory section featuring my name, professional title and professional cover photo 
 
-### 🏠 About
-The **Home** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission.  
-The **About** section dives deeper into my story — outlining my background, interests, and values.  
+### 👨🏻‍💻 About
+The **About** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission. It dives deeper into my story — outlining my background, interests, and values.  
 
 ---
 
@@ -67,7 +66,7 @@ It includes direct links to my **email** and professional profiles such as **Lin
 |-------------|----------|
 | **React.js** | Component-based front-end framework |
 | **Vite** | Fast and modern React build tool |
-| **CSS** | Styling and responsive design |
+| **CSS & Bootstrap** | Styling and responsive design |
 | **GitHub Pages** | Hosting and deployment |
 | **FontAwesome / Icons** | UI icons for navigation and links |
 
