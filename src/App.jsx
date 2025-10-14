@@ -12,9 +12,10 @@ import Contact from './components/Contact';
 import './styles/global.css';
 import Certificates from './components/Certificates';
 import { addScrollEffect } from './utils/ScrollEffect';
-
+import Header from './components/Header'; 
 
 function App() {
+
   useEffect(() => {
     AOS.init({ duration: 1000 }); // Initialize AOS with a duration of 1000ms
     addScrollEffect();
@@ -24,6 +25,7 @@ function App() {
     <div className="dark-theme">
       <SideMenu />
       <main className="main">
+        
         <div id="hero" >
           <Hero />
         </div>
