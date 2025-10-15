@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio! This website showcases my background, technical skills, projects, and professional experience. It is built using React and designed to provide potential employers, collaborators, or anyone interested in my work, a clear view of who I am and what I can do.
 
----
-
 ## Purpose
 
 The purpose of this portfolio is to provide a professional yet personal platform where I can display my work, skills, and achievements in a way that is easily accessible. It serves as both a dynamic resume and an interactive showcase of my technical projects, giving visitors an opportunity to get to know me better and explore my work in more detail. The website is also designed to be user-friendly, responsive, and visually appealing, reflecting both my design sense and technical capabilities.
@@ -18,35 +16,23 @@ An introductory section featuring my name, professional title and professional c
 ### 👨🏻‍💻 About
 The **About** section serves as a welcoming introduction, featuring a professional portrait and a clear statement of my role and mission. It dives deeper into my story outlining my background, interests, and values.  
 
----
-
 ### 🪪 Certificates
 This section features with verified certifications that reflect my dedication to continuous learning and growth.  
 It includes achievements from platforms like **Udemy**, **Coursera**, and **DICT**. Each certificate represents a milestone that broadens my technical and professional perspective.
-
----
 
 ### 💼 Portfolio
 A detailed showcase of my **projects and innovations**, demonstrating my technical ability, creativity, and problem-solving mindset.  
 Visitors can explore the technologies I use, read short descriptions of each project, and access live demos or GitHub repositories.  
 This section gives a clear look at how I approach development from concept to deployment.
 
----
-
 ### 🧠 Skills
 A visually engaging presentation of my **programming languages, frameworks, and tools** percentages. It highlights my versatility across different skilss. The design ensures that my strengths are both easy to understand and visually appealing.
-
----
 
 ### ⚙️ Tech Stack
 Inclued all technologies and tools I've use for building scalable web applications, crafting modern user interfaces, and managing backend systems. My stack covers both frontend and backend development, along with deployment and version control.
 
----
-
 ### 📄 Resume
 This section provides a downloadable **PDF résumé**, offering a concise summary of my **education, experience, and achievements**. It serves as a quick reference for potential employers or collaborators who want an overview of my professional qualifications.
-
----
 
 ### 📬 Contact
 The final section encourages visitors to connect for collaborations, professional opportunities, or simply sharing ideas. It includes direct links to my **email** and professional profiles such as **LinkedIn, GitHub, Facebook,** and **Instagram**, making communication seamless and accessible.
@@ -104,7 +90,7 @@ npm run build
 npm run deploy
 #If using GitHub Pages, follow the official guide for deployment.
 ```
-
+---
 ## Live Demo
 You can access the live version of your portfolio once it's deployed:
 
