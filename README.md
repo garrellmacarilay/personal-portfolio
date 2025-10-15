@@ -95,6 +95,16 @@ npm install
 npm run dev
 ```
 
+### **Deployment**
+To deploy your portfolio to GitHub Pages:
+```bash
+#Build the project for production:
+npm run build
+#Push the build folder to your GitHub Pages branch (usually gh-pages):
+npm run deploy
+#If using GitHub Pages, follow the official guide for deployment.
+```
+
 ## Live Demo
 You can access the live version of your portfolio once it's deployed:
 
@@ -102,4 +112,5 @@ You can access the live version of your portfolio once it's deployed:
 https://garrellmacarilay.github.io/personal-portfolio/
 
 ### Recording:
-Your demo link here
+https://drive.google.com/file/d/1yN9IRO2RoxJ3TSRxhlyZFdkJUbXgBZUu/view?usp=sharing
+
