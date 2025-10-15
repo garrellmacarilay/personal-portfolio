@@ -102,4 +102,5 @@ You can access the live version of your portfolio once it's deployed:
 https://garrellmacarilay.github.io/personal-portfolio/
 
 ### Recording:
-Your demo link here
+https://drive.google.com/file/d/1yN9IRO2RoxJ3TSRxhlyZFdkJUbXgBZUu/view?usp=sharing
+
